@@ -9,7 +9,8 @@ module.exports = merge(common, {
     contentBase: './build',
     hot: true,
     clientLogLevel: 'warning',
-    quiet: true
+    quiet: true,
+    port:3000
   },
   plugins: [
     new HtmlWebpackPlugin({
