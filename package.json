@@ -1,7 +1,7 @@
 {
   "name": "typescriptintro",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple webpack cunstruction typescript course",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --open --config webpack.dev.js",
