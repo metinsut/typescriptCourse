@@ -1,2 +1,2 @@
-import lesson from "./lesson5";
+import lesson from "./lesson6";
 lesson;
